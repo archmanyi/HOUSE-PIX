@@ -1,4 +1,4 @@
-·Due to upload capacity limitations, every 50 images are grouped together.
+Due to upload capacity limitations, every 50 images are grouped together.
 
 In Pix2pixHD model training, the first step is to input the images from TrainA and TrainB.
 
